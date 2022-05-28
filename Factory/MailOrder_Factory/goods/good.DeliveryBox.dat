@@ -1,0 +1,8 @@
+obj=good
+name=DeliveryBox
+metric=paletten
+catg=1
+value=75
+speed_bonus=7
+weight_per_unit=1
+DistributionWeight=1

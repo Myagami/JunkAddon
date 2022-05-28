@@ -1,0 +1,11 @@
+Obj=building
+Name=Toyoko_Inn
+Type=cur
+Passengers=40
+Build_Time=5000
+intro_year=1986
+intro_month=1
+chance=40
+dims=2,1,1
+BackImage[0][0][0][0][0][0]=Toyoko_Inn_out.0.0
+BackImage[0][0][1][0][0][0]=Toyoko_Inn_out.0.1

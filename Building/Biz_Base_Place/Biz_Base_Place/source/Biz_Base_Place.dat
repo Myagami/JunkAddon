@@ -1,0 +1,26 @@
+Obj=building
+Name=Biz_Base_Place
+Type=extension
+enables_pax=0
+enables_post=0
+enables_ware=0
+Passengers=1
+Level=1
+waytype=none
+#corsor=>
+icon=> Biz_Base_Place.0.2
+Dims=2,1,4
+#0
+BackImage[0][0][0][0][0][0]=Biz_Base_Place.0.0
+BackImage[0][0][1][0][0][0]=Biz_Base_Place.0.1
+#1
+BackImage[1][0][0][0][0][0]=Biz_Base_Place.1.1
+BackImage[1][1][0][0][0][0]=Biz_Base_Place.1.0
+#2 
+BackImage[2][0][0][0][0][0]=Biz_Base_Place.2.0
+BackImage[2][0][1][0][0][0]=Biz_Base_Place.2.1
+#3
+BackImage[3][0][0][0][0][0]=Biz_Base_Place.3.0
+BackImage[3][1][0][0][0][0]=Biz_Base_Place.3.1
+copyright=M.Yagami
+

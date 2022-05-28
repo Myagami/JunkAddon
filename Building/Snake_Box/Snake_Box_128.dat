@@ -1,0 +1,9 @@
+Obj=building
+Name=Snake_Box
+Type=res
+Level=10
+Dims=1,1,2
+BackImage[0][0][0][0][0][0]=Snake_Box_128.0.0
+BackImage[1][0][0][0][0][0]=Snake_Box_128.0.1
+copyright=M.Yagami
+

@@ -1,0 +1,10 @@
+Obj=building
+Name=Sapporo_Off_Stage
+Type=cur
+Passengers=1012
+intro_year=2014
+intro_month=9
+chance=100
+dims=2,1,1
+BackImage[0][0][0][0][0][0]=Sapporo_Off_Stage_source.0.0
+BackImage[0][0][1][0][0][0]=Sapporo_Off_Stage_source.0.1

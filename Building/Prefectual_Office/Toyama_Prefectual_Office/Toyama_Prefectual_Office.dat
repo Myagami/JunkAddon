@@ -1,0 +1,13 @@
+Obj=building
+Name=Toyama_Prefectual_Office
+Type=cur
+Passengers=100
+intro_year=1935
+chance=180
+dims=3,2,1
+BackImage[0][0][0][0][0][0]=Toyama_Prefectual_Office_src.0.0
+BackImage[0][0][1][0][0][0]=Toyama_Prefectual_Office_src.0.1
+BackImage[0][0][2][0][0][0]=Toyama_Prefectual_Office_src.0.2
+BackImage[0][1][0][0][0][0]=Toyama_Prefectual_Office_src.1.0
+BackImage[0][1][1][0][0][0]=Toyama_Prefectual_Office_src.1.1
+BackImage[0][1][2][0][0][0]=Toyama_Prefectual_Office_src.1.2

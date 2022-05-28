@@ -1,0 +1,16 @@
+Obj=factory
+Name=BentoFactory
+Location=Land
+DistributionWeight=1
+Productivity=5
+Range=20
+Mapcolor=39
+chance=100
+
+dims=3,2,1
+BackImage[0][0][0][0][0][0]=BentoFactory_src.0.0
+BackImage[0][0][1][0][0][0]=BentoFactory_src.0.1
+BackImage[0][0][2][0][0][0]=BentoFactory_src.0.2
+BackImage[0][1][0][0][0][0]=BentoFactory_src.1.0
+BackImage[0][1][1][0][0][0]=BentoFactory_src.1.1
+BackImage[0][1][2][0][0][0]=BentoFactory_src.1.2

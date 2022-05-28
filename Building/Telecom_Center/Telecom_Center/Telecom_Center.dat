@@ -1,0 +1,15 @@
+Obj=building
+Name=Telecom_Center(IMPACT EXITER First Release)
+Type=cur
+Level=5
+Passengers=77
+Dims=2,2,1
+BackImage[0][0][0][0][0][0]=Telecom_Center.1.1
+BackImage[0][0][0][1][0][0]=Telecom_Center.0.1
+BackImage[0][1][0][0][0][0]=Telecom_Center.1.0
+BackImage[0][1][0][1][0][0]=Telecom_Center.0.0
+BackImage[0][0][1][0][0][0]=Telecom_Center.1.2
+BackImage[0][0][1][1][0][0]=Telecom_Center.0.2
+BackImage[0][1][1][0][0][0]=Telecom_Center.2.1
+
+copyright=M.Yagami

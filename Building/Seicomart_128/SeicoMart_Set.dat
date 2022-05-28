@@ -1,0 +1,14 @@
+#------------------------------------------------
+#
+#------------------------------------------------
+Obj=building
+Name=SeicoMart Type1
+Type=com
+Level=4
+BackImage[0][0][0][0][0]=SeicoMart_Type1_002_HotSheff.0.0
+------------------------------------------------
+Obj=building
+Name=SeicoMart Type2
+Type=com
+Level=4
+BackImage[0][0][0][0][0]=SeicoMart_Type2.0.0

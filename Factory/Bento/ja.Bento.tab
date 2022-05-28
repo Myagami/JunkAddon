@@ -1,0 +1,16 @@
+§################################################################################
+#
+BentoFactory
+弁当工場
+Bento(Shop)
+店頭販売当弁
+Bento(Event)
+仕出し弁当
+Bento(Combini)
+コンビニ弁当
+BentoShop(Type1)
+弁当屋(タイプ1)
+BentoShop(Type2)
+弁当屋(タイプ2)
+Case
+ケース

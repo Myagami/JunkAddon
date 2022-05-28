@@ -1,0 +1,15 @@
+Obj=building
+Name=Ehime_Prefectual_Office
+Type=cur
+Passengers=777
+intro_year=2012
+intro_month=12
+chance=77
+copyright=Nana Yagami
+dims=3,2,1
+BackImage[0][0][0][0][0][0]=Ehime_Prefectual_Office_out.0.0
+BackImage[0][0][1][0][0][0]=Ehime_Prefectual_Office_out.0.1
+BackImage[0][0][2][0][0][0]=Ehime_Prefectual_Office_out.0.2
+BackImage[0][1][0][0][0][0]=Ehime_Prefectual_Office_out.1.0
+BackImage[0][1][1][0][0][0]=Ehime_Prefectual_Office_out.1.1
+BackImage[0][1][2][0][0][0]=Ehime_Prefectual_Office_out.1.2
